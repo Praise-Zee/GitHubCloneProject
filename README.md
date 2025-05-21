@@ -1,5 +1,3 @@
-This is the description of my repo
-HEAD
+This is the description of my repo.
 Modification in both main and feature-greeting branch.
-Modification in both main and feature-greeting branch.
-feature-greeting
+
